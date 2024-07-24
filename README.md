@@ -20,7 +20,7 @@ The Pokémon App consists of three main screens:
 ## Extra Features
 
 - **Dark Mode:** A toggle to switch between light and dark themes for a better viewing experience.
-- **Button Animation:** Smooth animations when pressing the `START` button on the Landing Page.
+- **Button Animation:** An animation when pressing the `START` button on the Landing Page.
 - **Pokémon Sound Effects:** Plays a sound effect for the selected Pokémon when navigating to the Pokedex.
 
 ## Technologies Used
@@ -40,7 +40,7 @@ The Pokémon App consists of three main screens:
 
 2. **Navigate to the project directory**:
     ```bash
-    cd pokemon-app
+    cd reactpokeapp-main
     ```
 
 3. **Install dependencies**:
